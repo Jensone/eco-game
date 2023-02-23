@@ -1,4 +1,4 @@
-<p align="center"><h1>Eco Game</h1></p>
+#Eco Game
 
 Pour mes étudiant(s). Jeu d'apprentissage de JavaScript
 
