@@ -1,4 +1,4 @@
-#Eco Game
+# Eco Game
 
 Pour mes étudiant(s). Jeu d'apprentissage de JavaScript
 
