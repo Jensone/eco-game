@@ -1,6 +1,8 @@
-# Eco Game
+# EcoGame
 
 Pour mes étudiant(s). Jeu d'apprentissage de JavaScript
+
+[![corrigé](https://sosdevtips.b-cdn.net/github-badges/CORRIGE.svg)](https://jensone.github.io/ecoGame)
 
 ---
 
