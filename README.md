@@ -6,7 +6,7 @@ Pour mes étudiant(s). Jeu d'apprentissage de JavaScript
 
 ---
 
-![code](https://sosdevtips.b-cdn.net/github-badges/DEBUTANT.svg) ![level](https://sosdevtips.b-cdn.net/github-badges/JAVASCRIPT.svg)
+![code](https://sosdevtips.b-cdn.net/github-badges/JUNIOR.svg) ![level](https://sosdevtips.b-cdn.net/github-badges/JAVASCRIPT.svg)
 
 
 Concevez un Text Game en JavaScript avec les notions que vous avez apprises jusqu'à présent.
