@@ -27,7 +27,8 @@ Voici l'algorithme de base du jeu :
 
 - [ ] Déployer le jeu sur GitHub Pages avec un index.html contenant les instructions pour jouer
 - [ ] Créez des questions à plus de 2 réponses
-- [ ] Créer une base de données avec un fichier JSON pour stocker les questions et les réponses et les exploiter dans le jeu
+- [ ] Créer une base de données au format JSON pour stocker les questions et les réponses et les exploiter dans le jeu
+
 
 ## Ressources
 
