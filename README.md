@@ -31,4 +31,3 @@ Voici l'algorithme de base du jeu :
 
 - [Documentation JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 - [MDN - localStorage](https://developer.mozilla.org/fr/docs/Web/API/Window/localStorage)
-- 
