@@ -19,14 +19,13 @@ Voici l'algorithme de base du jeu :
 
 - [ ] Concevoir un jeu en Vanilla JavaScript
 - [ ] Le code est fonctionnel et s'exécute dans la console du navigateur sans erreur
-- [ ] Stocker les données avec
+- [ ] Stocker les données mise à jour avec les réponses
 - [ ] Le nombre de questions minimum est de 5
-- [ ] Chaque réponse donne droit à un nombre de point en fonction de la meilleure option écologique
+- [ ] Chaque réponse donne droit à un nombre de point en fonction de l'option d'action écologique
 
 ## Pour aller plus loin
 
 - [ ] Déployer le jeu sur GitHub Pages avec un index.html contenant les instructions pour jouer
-- [ ] Créez des questions à plus de 2 réponses
 - [ ] Créer une base de données au format JSON pour stocker les questions et les réponses et les exploiter dans le jeu
 
 
