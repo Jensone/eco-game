@@ -1,6 +1,8 @@
-# Eco Game
+# EcoGame proposition de corrigé
 
 Pour mes étudiant(s). Jeu d'apprentissage de JavaScript
+
+[![énoncé](https://sosdevtips.b-cdn.net/github-badges/ENONCE.svg)](https://github.com/Jensone/ecoGame)
 
 ---
 
@@ -11,23 +13,22 @@ Concevez un Text Game en JavaScript avec les notions que vous avez apprises jusq
 
 Voici l'algorithme de base du jeu :
 
-![algo](./assets/img/algorithme.png)
+![algo](https://github.com/Jensone/ecoGame/raw/main/assets/img/algorithme.png)
 
-## Objectifs et attentes
+## Important
 
-- [ ] Concevoir un jeu en Vanilla JavaScript
-- [ ] Le code est fonctionnel et s'exécute dans la console du navigateur sans erreur
-- [ ] Stocker les données avec l'API localStorage
-- [ ] Le nombre de questions minimum est de 5
-- [ ] Chaque réponse donne droit à un nombre de point en fonction de la meilleure option écologique
+En programmation, il possible de résoudre des problèmes de plusieurs manières. La correction proposée ici n'est qu'une proposition parmi d'autres. N'hésitez pas à partager vos solutions et à discuter avec vos camarades.
+
+## Objectifs et attentes dans le corrigé
+
+- [x] Concevoir un jeu en Vanilla JavaScript
+- [x] Le code est fonctionnel et s'exécute dans la console du navigateur sans erreur
+- [x] Stocker les données avec l'API localStorage
+- [x] Le nombre de questions minimum est de 5
+- [x] Chaque réponse donne droit à un nombre de point en fonction de la meilleure option écologique
 
 ## Pour aller plus loin
 
-- [ ] Déployer le jeu sur GitHub Pages avec un index.html contenant les instructions pour jouer
+- [x] Déployer le jeu sur GitHub Pages avec un index.html contenant les instructions pour jouer
 - [ ] Créez des questions à plus de 2 réponses
-- [ ] Créer une base de données avec un fichier JSON pour stocker les questions et les réponses et les exploiter dans le jeu
-
-## Ressources
-
-- [Documentation JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-- [MDN - localStorage](https://developer.mozilla.org/fr/docs/Web/API/Window/localStorage)
+- [x] Créer une base de données au format JSON pour stocker les questions et les réponses et les exploiter dans le jeu
