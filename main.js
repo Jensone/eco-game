@@ -43,9 +43,17 @@ const questions = [
         
 ]
 
+// Début du jeu
+
 //const username = prompt("Quel est votre nom ?")
-document.querySelector(".username").innerHTML = username;
+document.querySelector(".username").innerHTML = username
 let score = 0
 
+let question = document.querySelector(".question")
+let reponseA = document.querySelector(".reponse_a")
+let reponseB = document.querySelector(".reponse_b")
 
-console.log(`Vous avez obtenu un score de ${score}. Félicitations !`);
+question.innerHTML = questions[0].question
+reponseA.innerHTML = questions[0].reponseA
+reponseB.innerHTML = questions[0].reponseB
+

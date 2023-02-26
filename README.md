@@ -23,12 +23,11 @@ En programmation, il possible de résoudre des problèmes de plusieurs manières
 
 - [x] Concevoir un jeu en Vanilla JavaScript
 - [x] Le code est fonctionnel et s'exécute dans la console du navigateur sans erreur
-- [x] Stocker les données avec l'API localStorage
+- [x] Stocker les données mise à jour avec les réponses
 - [x] Le nombre de questions minimum est de 5
-- [x] Chaque réponse donne droit à un nombre de point en fonction de la meilleure option écologique
+- [x] Chaque réponse donne droit à un nombre de point en fonction de l'option d'action écologique
 
 ## Pour aller plus loin
 
 - [x] Déployer le jeu sur GitHub Pages avec un index.html contenant les instructions pour jouer
-- [ ] Créez des questions à plus de 2 réponses
 - [x] Créer une base de données au format JSON pour stocker les questions et les réponses et les exploiter dans le jeu
