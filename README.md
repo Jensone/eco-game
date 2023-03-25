@@ -2,8 +2,6 @@
 
 Pour mes étudiant(s). Jeu d'apprentissage de JavaScript
 
-[![corrigé](https://sosdevtips.b-cdn.net/github-badges/CORRIGE.svg)](https://jensone.github.io/ecoGame)
-
 ---
 
 ![code](https://sosdevtips.b-cdn.net/github-badges/JUNIOR.svg) ![level](https://sosdevtips.b-cdn.net/github-badges/JAVASCRIPT.svg)
